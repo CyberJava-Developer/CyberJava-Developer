@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Faisal (CyberJava-Developer) 👋
 
 <!--
 **CyberJava-Developer/CyberJava-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,17 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
+<p align = center ><img src="https://github.com/CyberJava-Developer/CyberJava-Developer/assets/57187507/1546cc8b-5d5a-4e97-bee0-fc8c3061d706.png"> </p>
 
 <div>
-
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
 <h2> / about me /</h2>
   
 - ⭐ currently working on **web-development and Android-developer**
 - 💀 mostly working on **private repositories**
-- 👾 a **student** working his way around things
+- 🔭 I’m currently working on PT. Nusa
+- 👯 I’m available working for your company
   
 <h2> / current skills / </h2>
   
@@ -52,11 +51,8 @@ Here are some ideas to get you started:
   </br></br>
   
 <div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
   </div>
   </div>
 
 ------
-Credit: [zillastar](https://github.com/zillastar)
-
-Last Edited on: 12/11/2022
+Credit: [Faisal16](https://github.com/CyberJava-Developer)
